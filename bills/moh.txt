@@ -1,0 +1,5 @@
+Bill breakdown: 
+muffin:                   $5.99
+cake:                     $2.99
+tip:                      $5
+total:                    $13.98

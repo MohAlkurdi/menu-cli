@@ -1,0 +1,4 @@
+Bill breakdown: 
+cupcake:                  $2.99
+tip:                      $1
+total:                    $3.99
